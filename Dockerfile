@@ -1,4 +1,4 @@
-FROM python:3.9-alpine
+FROM python:3.8-alpine
 # Python docker images: https://github.com/docker-library/docs/tree/master/python/
 
 USER root
