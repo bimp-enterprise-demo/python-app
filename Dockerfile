@@ -1,4 +1,4 @@
-FROM python:3.9-alpine
+FROM dhi.io/python:3.14-debian13-sfw-ent-dev
 # Python docker images: https://github.com/docker-library/docs/tree/master/python/
 
 USER root
